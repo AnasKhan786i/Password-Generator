@@ -2,7 +2,7 @@
 
 A sleek, responsive, and interactive web application designed to generate secure, customizable passwords instantly. Try out the live application below!
 
-🌐 **[Live Demo](https://github.io)**
+🌐 **[Live Demo](https://anaskhan786i.github.io/Password-Generator/)**
 
 ---
 
